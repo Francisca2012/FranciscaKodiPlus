@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addonid="repository.francisca" name="Francisca" version="1.0" provider-name="Ivan">
+<extension point="xbmc.addon.repository" name="Simple Kodi">
+	<info compressed="false">https://github.com/Francisca2012/FranciscaKodiPlus/blob/master/Zips/addons.xml</info>
+	<checksum>https://github.com/Francisca2012/FranciscaKodiPlus/blob/master/Zips/addons.xml.md5</checksum>
+	<datadir zip="true">https://github.com/Francisca2012/FranciscaKodiPlus/tree/master/Zips</datadir>
+</extension>
+<extension point="xbmc.addon.metadata">
+	<summary>Francisca.</summary>
+	<description>Mi primer repo</description>
+	<platform>all</platform>
+</extension>
+</addon>
